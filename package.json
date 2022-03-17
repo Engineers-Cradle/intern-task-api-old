@@ -1,0 +1,23 @@
+{
+  "name": "intern-task-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BRAVO68WEB/frnt-intern-task-api.git",
+  "author": "BRAVO68WEB",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "connect-mongo": "^4.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "helmet": "^5.0.2",
+    "mongoose": "^6.2.7"
+  }
+}
