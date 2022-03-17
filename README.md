@@ -4,7 +4,7 @@
 
 Create a Website to Show a Contact Form Input on Homepage and another page to list all of those in a table.
 
-Use mage use the following API for Integration :-
+Use the following API for Integration :-
 
 URL :- `https://intern-api.engineerscradle.com/api/ft/`
 
