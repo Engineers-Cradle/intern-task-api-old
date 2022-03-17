@@ -6,7 +6,7 @@ Create a Website to Show a Contact Form Input on Homepage and another page to li
 
 Use mage use the following API for Integration :-
 
-URL :- `http://ec-intern-api.b68dev.xyz/api/ft/`
+URL :- `https://intern-api.engineerscradle.com/api/ft/`
 
 ### Task #1
 

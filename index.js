@@ -42,6 +42,6 @@ app.get("*", (req, res) => {
   });
 });
 
-app.listen(3000, () => {
-  console.log("API listening on port 3000!");
+app.listen(5044, () => {
+  console.log("API listening on port 5044!");
 });
